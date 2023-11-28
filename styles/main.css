@@ -1,6 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Flow+Circular&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Pixelify+Sans&display=swap");
 @import url('https://fonts.googleapis.com/css2?family=Figtree&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
 
 :root {
   --mainTextColor-light: #000;
@@ -23,7 +24,7 @@
 }
 
 * {
-  font-family: 'Pixelify Sans', cursive;
+  font-family: 'Nunito', cursive;
   line-height: 1.5em;
   box-sizing: border-box;
   color: var(--mainTextColor);
